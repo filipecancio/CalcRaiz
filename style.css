@@ -13,7 +13,7 @@ body{
     justify-content: center;
 }
 .calc-area{
-    width: 400px;
+    width: 300px;
     height: 330px;
     background: rgba(4, 35, 7, 0.62);
     border-radius: 10px;
@@ -49,7 +49,7 @@ body{
     background: rgba(4, 35, 7, 1);
 }
 .calc-module{
-    width: 390px;
+    width: 290px;
     height: 150px;
     background: rgba(4, 35, 7, 0.62);
     border-radius: 10px;
